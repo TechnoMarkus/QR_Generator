@@ -1,0 +1,1 @@
+Class QR Code Generator
